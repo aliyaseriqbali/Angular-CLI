@@ -23,6 +23,4 @@ describe('Cities Test', () => {
         expect(cityService.cities).toContain(newCity);
 
     });
-
 });
-
